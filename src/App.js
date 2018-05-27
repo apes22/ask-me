@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Cover from './components/cover';
 import Introduction from './components/introduction';
-import QuestionList from './components/question_list';
+import QandA from './components/question_answer';
 import AdviceList from './components/advice_list';
 import Contact from './components/contact';
 import Footer from './components/footer';
@@ -13,7 +13,7 @@ class App extends Component {
       <div className="App">
       <Cover />
       <Introduction />
-      <QuestionList />
+      <QandA />
       <AdviceList />
       <Contact />
       <Footer /> 
