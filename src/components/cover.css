@@ -1,0 +1,50 @@
+.cover{
+  height: 85vh;
+  background-image:  url("https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=61282cfeed75871385c84c2a44a8e594");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  overflow: hidden;
+  background-color: #337ab7;
+  opacity: 0.5px;
+  position: relative;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+.overlay {
+  background: #337ab7;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+  width: 100%;
+  height: 100%;
+}
+
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+  position: relative;
+}
+
+.cover-item{ 
+  flex: none;
+  max-width: 80%;
+}
+
+.greetings{
+  color: white;
+  font-size: 80px;
+  font-weight: 900;
+}

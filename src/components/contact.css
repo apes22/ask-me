@@ -1,0 +1,11 @@
+form{
+  margin:auto;
+  width: 80%;
+  padding: 12px;
+}
+
+@media only screen and (min-width: 992px){
+form {
+   width: 50%;
+  }
+}

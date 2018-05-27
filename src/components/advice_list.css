@@ -1,0 +1,20 @@
+.advice{
+  min-height: 100px;
+  background-color: #337ab7;
+  color: white;
+}
+
+.advice h2{
+  font-size: 60px;
+}
+
+.advice-list{
+  list-style: none;
+  padding-left: 0 !important;
+}
+
+.advice-list li{
+  padding: 8px;
+  font-weight: 900;
+  font-size: 130%;
+}

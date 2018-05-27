@@ -1,0 +1,36 @@
+.question-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+  
+.question{
+  color: #337ab7;
+  font-family: 'Bubblegum Sans', cursive;
+}
+  
+.single-card {
+  width: 300px;
+  min-height: 200px;
+  margin-bottom: 40px;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+  display: flex; 
+  flex-direction: column; 
+}
+  
+.card-action{
+  background-color: inherit;
+  border-top: 1px solid rgba(160,160,160,0.2);
+  padding: 16px 24px;
+}
+  
+.card-action a{
+  margin-right: 24px;
+}
+  
+.response{
+  font-size: 14px;
+  flex: 1; 
+}
