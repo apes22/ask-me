@@ -44,7 +44,7 @@ class Contact extends Component {
     return(
       <section className="contact" >
       <h3>Have more questions? </h3>
-      <h3>Send me a message!</h3>
+      <p>Send me a message and I will answer it on this website!</p>
   
       <form className="grey-border-shadow" action={url}
       method="POST" onSubmit={this.onFormSubmit}>
