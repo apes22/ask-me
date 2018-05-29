@@ -61,8 +61,8 @@
   },
   {
     "question": "Do you know of any coding challenges for me to do?",
-    "answer": "",
-    "links": []
+    "answer": "Yes below are a few good places to code!",
+    "links": ["https://code.org/learn", "https://www.brainpop.com/games/blocklymaze/", "https://www.madewithcode.com/projects/"]
   },
   {
     "question": "Do you work with a lot of other women in the STEM field?",
