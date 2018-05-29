@@ -7,7 +7,6 @@ const AdviceList = () =>
   <ol className="advice-list">
     <li>- Love Yourself - </li>
     <li>- Trust Yourself -</li>
-    <li>- Stay Humble -</li>
     <li>- Help Others - </li>
     <li>- Be Kind -</li>
 </ol>
