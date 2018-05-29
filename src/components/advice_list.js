@@ -5,9 +5,9 @@ const AdviceList = () =>
 <section className="advice">
   <h2 className= "advice-header bubble-gum ">Advice</h2>
   <ol className="advice-list">
-    <li>- Love Yourself - </li>
+    <li>- Love Yourself -</li>
     <li>- Trust Yourself -</li>
-    <li>- Help Others - </li>
+    <li>- Help Others -</li>
     <li>- Be Kind -</li>
 </ol>
     
