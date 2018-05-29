@@ -1,6 +1,6 @@
 .cover{
   height: 85vh;
-  background-image:  url("https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=61282cfeed75871385c84c2a44a8e594");
+  background-image:  url("http://res.cloudinary.com/maribelduran/image/upload/v1527569127/unsplash_mountains.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -45,6 +45,30 @@
 
 .greetings{
   color: white;
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 900;
 }
+
+@media only screen and (min-width: 550px) {
+  .greetings{
+   font-size: 80px;
+  }
+}
+
+@media only screen and (min-width: 550px) {
+  .cover {
+     background-image: url("http://res.cloudinary.com/maribelduran/image/upload/c_fill,w_700/v1527569127/unsplash_mountains.jpg");
+   }
+ }
+
+@media only screen and (min-width: 768px) {
+  .cover {
+     background-image: url("http://res.cloudinary.com/maribelduran/image/upload/c_fill,w_900/v1527569127/unsplash_mountains.jpg");
+   }
+ }
+@media only screen and (min-width: 1200px) {
+ .cover{
+    background-image: url("http://res.cloudinary.com/maribelduran/image/upload/c_fill,w_1300/v1527569127/unsplash_mountains.jpg");
+  }
+}
+
