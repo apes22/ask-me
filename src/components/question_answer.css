@@ -26,7 +26,11 @@
 .card-action{
   background-color: inherit;
   border-top: 1px solid rgba(160,160,160,0.2);
-  padding: 16px 24px;
+  
+}
+
+.card-link-item{
+ margin-top: 8px !important;
 }
   
 .card-action a{
