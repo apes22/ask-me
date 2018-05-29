@@ -1,11 +1,10 @@
 import React from "react";
-//import  "./introduction.css";
 
 const Introduction = () =>
-<section class="intro-video">
-  <div class="container">
-    <div class="video-container">
-      <iframe width="400" height="400" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0" allowfullscreen></iframe>
+<section>
+  <div className="container">
+    <div className="video-container">
+      <iframe title="Introduction"width="400" height="400" src="//www.youtube.com/embed/huowc07-5Xo?rel=0" frameBorder="0" allowFullScreen></iframe>
       </div>
   </div>
 </section>
