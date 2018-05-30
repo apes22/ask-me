@@ -3,7 +3,7 @@
   background-image:  url("http://res.cloudinary.com/maribelduran/image/upload/v1527569127/unsplash_mountains.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -64,6 +64,7 @@
 @media only screen and (min-width: 768px) {
   .cover {
      background-image: url("http://res.cloudinary.com/maribelduran/image/upload/c_fill,w_900/v1527569127/unsplash_mountains.jpg");
+     background-attachment: fixed;
    }
  }
 @media only screen and (min-width: 1200px) {
