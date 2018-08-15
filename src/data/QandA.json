@@ -7,7 +7,10 @@
   {
     "question": "Have you made any games?",
     "answer": "Yes I have made a few simple games!",
-    "links": ["https://www.maribelduran.com/simon-game/", "https://www.maribelduran.com/tic-tac-toe"]
+    "links": [
+      "https://maribelduran.github.io/simon-game",
+      "https://maribelduran.github.io/tic-tac-toe"
+    ]
   },
   {
     "question": "Which University do you recommend?",
@@ -62,7 +65,11 @@
   {
     "question": "Do you know of any coding challenges for me to do?",
     "answer": "Yes below are a few good places to code!",
-    "links": ["https://code.org/learn", "https://www.brainpop.com/games/blocklymaze/", "https://www.madewithcode.com/projects/"]
+    "links": [
+      "https://code.org/learn",
+      "https://www.brainpop.com/games/blocklymaze/",
+      "https://www.madewithcode.com/projects/"
+    ]
   },
   {
     "question": "Do you work with a lot of other women in the STEM field?",
@@ -133,5 +140,5 @@
     "question": "What is the key to getting to where you are now?",
     "answer": "I think being kind, helping others, and working hard has helped me to getting where I am now.",
     "links": []
-  }  
+  }
 ]
